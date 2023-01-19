@@ -12,6 +12,6 @@ else:
         print("Please answer in True or False")
         time.sleep(3)
         exit()
-print("Question 2, ")
+print("Question 2, What video games does Tyler play?")
 
 
